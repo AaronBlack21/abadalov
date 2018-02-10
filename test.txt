@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 321
 123
 
 asd
+=======
+Hello git 123
+Krok - Gar qwe
+Devcoleon
+.123321 123
+>>>>>>> Commit -2
